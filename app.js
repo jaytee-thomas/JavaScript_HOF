@@ -1,4 +1,4 @@
-console.log("Hello World!\n==========\n");
-
-// Exercise 1 Section
-console.log("EXERCISE 1:\n==========\n");
+document.write(
+  "TrueCoders Node-10 (JavaCrip) Gangstas!\n==========\n <br></br>"
+);
+document.write(`<br></br>`);
